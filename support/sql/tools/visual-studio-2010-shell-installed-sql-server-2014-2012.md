@@ -44,3 +44,7 @@ Here's how to fix this issue:
 1. Make sure Visual Studio 2010 Shell (Isolated) or Shell (Integrated) isn't used by other applications or services.
 
 1. Uninstall Visual Studio 2010 Shell (Isolated) or Shell (Integrated) via **Add or remove programs**.
+
+## Other products this support applies to
+
+1. Help Viewer 1.1
